@@ -1,4 +1,4 @@
-https://lotuswalking.github.io/NewTonpendulum/
+https://lotuswalking.github.io/shoot/
 
 this code is for a test for read part of a picture and write to canvas
 1. shoot.png is made for 5 16x16 pictures
